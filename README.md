@@ -1,0 +1,1 @@
+# batstats-privacy-policy
