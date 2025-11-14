@@ -18,5 +18,5 @@ Bat Stats respects your privacy. This policy explains how we handle your data.
 - You can delete your batting data at any time directly within the app.
 - If you disable iCloud sync, your data will remain stored only on your device.  
 
-##Contact
+## Contact
 - If you have questions about this Privacy Policy, you can contact us at: parth49patel@gmail.com
